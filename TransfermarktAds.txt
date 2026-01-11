@@ -1,1 +1,3 @@
 tmssl.akamaized.net
+tmsi.akamaized.net
+tisoomi.de
