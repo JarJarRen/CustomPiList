@@ -1,4 +1,4 @@
 ||tmsi.akamaized.net^
 ||tisoomi.de^
-||https://www.transfermarkt.de/image/^
+||transfermarkt.de/image/^
 
