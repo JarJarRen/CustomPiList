@@ -1,3 +1,4 @@
-tmssl.akamaized.net
-tmsi.akamaized.net
-tisoomi.de
+||tmsi.akamaized.net^
+||tisoomi.de^
+||https://www.transfermarkt.de/image/^
+
